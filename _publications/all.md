@@ -1,1 +1,0 @@
-1. Zheng, Kaitong, Ya-Hui Jia, Kejiang Ye, and Wei-Neng Chen. "Strategic Evolutionary Reinforcement Learning With Operator Selection and Experience Filter." IEEE Transactions on Neural Networks and Learning Systems (2025).
