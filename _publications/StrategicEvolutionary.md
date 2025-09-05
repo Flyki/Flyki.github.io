@@ -2,7 +2,7 @@
 title: "Strategic Evolutionary Reinforcement Learning With Operator Selection and Experience Filter"
 collection: publications
 category: manuscripts
-permalink: /publication/StrategicEvolutionary
+permalink: 'https://ieeexplore.ieee.org/abstract/document/11125528/'
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-08-14
 venue: 'IEEE Transactions on Neural Networks and Learning Systems'
