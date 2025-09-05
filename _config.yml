@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Ya-Hui Jia (贾亚晖)"
 title_separator          : "-"
 name                     : &name "Ya-Hui Jia"
 description              : &description "personal description"
